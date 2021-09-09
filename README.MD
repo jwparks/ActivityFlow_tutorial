@@ -1,6 +1,7 @@
 # 2021 Fall SKKU GBME *"fMRI biomarker development 2"* Week 2 - Activity Flow mapping
 - Week 2 (9/10) course material by Jiwoong Park.
 - See for more info about ActFlowToolbox by ColeLab: https://github.com/ColeLab/ActflowToolbox
+- You can find the original version of activity flow tutorial here: https://colelab.github.io/ActflowToolbox/HCP_example.html
 
 
 ## Reference papers
@@ -20,7 +21,7 @@ You can download and install `ActflowToolbox` by run below command and it's reco
 - ActflowToolbox: `git clone --recurse-submodules https://github.com/ColeLab/ActflowToolbox.git`
 
 ## File structures
-Some files are from ActflowToolbox by ColaLab (https://github.com/ColeLab/ActflowToolbox)
+Some files are from ActflowToolbox by ColeLab (https://github.com/ColeLab/ActflowToolbox)
 - `Tutorial.ipynb` : Notebook file for `ActivityFlow` tutorial
 - `HCP_example_data/` : HCP cognitive-task, resting-state fMRI data used in the tutorial
 - `HCPMMP1_on_MNI152_ICBM2009a_nlin.nii.gz` : Cortical atlas by Glasser et al., 2016
