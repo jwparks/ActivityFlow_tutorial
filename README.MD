@@ -11,9 +11,10 @@
 Widely used python packages for scientific computing(e.g., numpy, matplotlib and scipy) are pre-installed by Anaconda environment.
 You may need to install additional packages to run the tutorial.  
 - Jupyter: `pip install jupyter`
-- ActflowToolbox: `git clone --recurse-submodules https://github.com/ColeLab/ActflowToolbox.git`
-you can download and install `ActflowToolbox` by run above command and it's recommended for end-users. but in this course tutorial, I won't use `ActflowToolbox` but I will proceed the tutorial by using basic scientific computing packages such as `numpy` and `scipy`.
 - Nibabel: `pip install nibabel` (you may need this ...)
+
+You can download and install `ActflowToolbox` by run below command and it's recommended for end-users. but in this course tutorial, I won't use `ActflowToolbox` but I will proceed the tutorial by using basic scientific computing packages only.
+- ActflowToolbox: `git clone --recurse-submodules https://github.com/ColeLab/ActflowToolbox.git`
 
 ## Contents list
 - A
