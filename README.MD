@@ -1,4 +1,4 @@
-# 2021 Fall *"fMRI biomarker development 2"* Week 2
+# 2021 Fall SKKU GBME *"fMRI biomarker development 2"* Week 2
 - Week 2 (9/10) course material by Jiwoong Park.
 - See for more info about ActFlowToolbox by ColeLab: https://github.com/ColeLab/ActflowToolbox
 
