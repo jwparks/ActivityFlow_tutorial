@@ -6,6 +6,7 @@
 ## Reference papers
 - Cole, M. W., Ito, T., Bassett, D. S., & Schultz, D. H. (2016). Activity flow over resting-state networks shapes cognitive task activations. Nature Neuroscience, advance online publication. https://doi.org/10.1038/nn.4406
 - Ito, T., Hearne, L., Mill, R., Cocuzza, C., & Cole, M. W. (2020). Discovering the Computational Relevance of Brain Network Organization. Trends in Cognitive Sciences, 24(1), 25–38.
+- Sanchez-Romero, R., & Cole, M. W. (2020). Combining multiple functional connectivity methods to improve causal inferences. Journal of Cognitive Neuroscience, 1-15.
 
 ## Software dependencies
 You may need to install additional packages to proceed the tutorial.
