@@ -24,4 +24,6 @@ Some files are from ActflowToolbox by ColaLab (https://github.com/ColeLab/Actflo
 - `HCP_example_data/` : HCP cognitive-task, resting-state fMRI data used in the tutorial
 - `HCPMMP1_on_MNI152_ICBM2009a_nlin.nii.gz` : Cortical atlas by Glasser et al., 2016
 - `img/` : supplementary figures 
+- `cortex_parcel_network_assignments.txt` : Assigned labels of large-scale functional network for each ROIs
+
 
