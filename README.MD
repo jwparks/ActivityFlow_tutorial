@@ -14,7 +14,7 @@ You may need to install additional packages to proceed the tutorial.
 - Jupyter: `pip install jupyter`        for development environment
 - Numpy: `pip install numpy`            for numerical calculation 
 - Matplotlib: `pip install matplotlib`  for data visualization
-- scipy: `pip install scipy`            for statistical computation
+- scipy: `pip install scipy`            for statistics
 - h5py: `pip install h5py`              for HDF data read/write
 
 You can download and install `ActflowToolbox` by run below command and it's recommended for end-users. but in this course tutorial, I won't use `ActflowToolbox` but I will proceed the tutorial by using basic scientific computing packages only.
